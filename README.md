@@ -1,4 +1,4 @@
-# ARP-Hoist-Assignment---Group-AA98
+# ARP-Hoist-Assignment-Group-AA98
 Andrea Bolla 4482930 
 Anna Possamai 5621738
 
